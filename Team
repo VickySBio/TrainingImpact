@@ -1,0 +1,28 @@
+\section{The Trainers}
+
+\newlength{\trainerIconWidth}
+\setlength{\trainerIconWidth}{2.0cm}
+
+\begin{center}
+\begin{longtable}{>{\centering\arraybackslash} m{1.1\trainerIconWidth} m{1\textwidth}}
+
+  \includegraphics[width=\trainerIconWidth]{photos/Vicky.jpg} &
+    \textbf{Dr. Vicky Schneider}\newline
+    Associate Professor and Deputy Director\newline
+    University of Melbourne, EMBL-ABT\newline
+    \mailto{mvschndeiderg@gmail.com}\\
+
+  \includegraphics[width=\trainerIconWidth]{photos/Tyagi.jpg} &
+    \textbf{Dr. Sonika Tyagi }\newline
+    Bioinformatics Manager\newline
+    AGRF and EMBL-ABR: AGRF Node, Melbourne\newline
+    \mailto{sonika.tyagi@agrf.org.au}\\
+
+  \includegraphics[width=\trainerIconWidth]{photos/Weaver.jpg} &
+    \textbf{Belinda Weaver}\newline
+    r\newline
+    QCIF & EMBL-ABR; QCIF node\newline
+    \mailto{belinda}\\
+  
+\end{longtable}
+\end{center}
